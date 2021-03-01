@@ -8,4 +8,4 @@ install.packages("magic", dependencies = TRUE)
 
 library(magic)
 
-magic(6)
+magic(3)
